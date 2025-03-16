@@ -1,0 +1,21 @@
+﻿  knopka.cpp
+D:\progVS\knopka\knopka\knopka.cpp(413,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\progVS\knopka\knopka\knopka.cpp(414,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\progVS\knopka\knopka\knopka.cpp(445,78): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+D:\progVS\knopka\knopka\knopka.cpp(445,37): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+D:\progVS\knopka\knopka\knopka.cpp(453,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\progVS\knopka\knopka\knopka.cpp(459,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\progVS\knopka\knopka\knopka.cpp(478,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\progVS\knopka\knopka\knopka.cpp(479,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\progVS\knopka\knopka\knopka.cpp(484,43): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\progVS\knopka\knopka\knopka.cpp(485,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\progVS\knopka\knopka\knopka.cpp(377,22): warning C4101: buffer: неиспользованная локальная переменная
+  knopka.vcxproj -> D:\progVS\knopka\x64\Debug\knopka.exe
